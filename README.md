@@ -16,4 +16,4 @@ Hello! I'm **Heidi Bolívar**, and I'm currently immersing myself in the excitin
 
 I love connecting with like-minded professionals and learning from others. You can follow my progress and updates on ongoing projects here on GitHub. Feel free to reach out!
 
-[LinkedIn Profile]([https://www.linkedin.com/in/heidi-bolivar/](https://www.linkedin.com/in/heidi-bolivar-349538327/)) *(Click to connect)*
+[LinkedIn Profile](https://www.linkedin.com/in/heidi-bolivar-349538327/) *(Click to connect)*
