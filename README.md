@@ -1,4 +1,4 @@
-# Introduction to Heidi Bolívar
+# Introduction to Heidi Bolivar
 
 Hello! I'm **Heidi Bolívar**, and I'm currently immersing myself in the exciting world of **Information Technology**. My passion lies in learning new programming languages, gaining hands-on experience through projects, and continuously expanding my knowledge. I thrive in collaborative environments and am always eager to learn from others, sharing insights and contributing to collective success.
 
