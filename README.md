@@ -50,7 +50,7 @@ If my path from that initial spark of curiosity to exploring the practicalities 
 *   💼 Connect professionally on [**LinkedIn**](https://linkedin.com/in/heidibolivar) <!-- Replace with your actual LinkedIn profile link -->
 *   📧 Send me a note via [**Email**](mailto:neidibolivar@gmail.com) <!-- Replace with your actual email address -->
 
-Thanks for reading a bit about my story!
+Thank you for your time and consideration. I look forward to hearing from you!
 
 **Warmly,**
 
