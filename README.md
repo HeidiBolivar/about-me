@@ -1,13 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_MODE_BANNER_URL">
-  <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_MODE_BANNER_URL">
-  <img alt="Heidi Bolivar Banner" src="YOUR_DEFAULT_BANNER_URL">
-</picture>
-<!-- Replace the YOUR_..._URL placeholders above with links to banner images if you have them, otherwise remove the <picture> block -->
+# <p align="center">
+<img src="img/heidi bolivar.jpg" height="80%">
+<br />
 
-## 👋 Hello There! I'm Heidi: Following Curiosity into the Cloud ☁️
+## 👋 Thank you for being here! I'm Heidi: Following Curiosity into the Cloud ☁️
 
-*(Optional: Where Technology Meets Human Connection)*
+*Where Technology Meets Human Connection*
 
 ---
 
@@ -23,7 +20,7 @@ Isn't it funny how a single conversation can set you on a completely unexpected 
 
 That conversation propelled me forward. I realized the best way to understand this potential was to dive in and **build things myself**. My journey started where many interactions do – focusing on people. In customer-facing roles, I learned the art of clear communication and the satisfaction of not just meeting, but **exceeding expectations**, often finding ways to make interactions **smoother and more efficient** for everyone involved. This foundation in understanding user needs felt essential as I pivoted towards the technical side.
 
-My curiosity naturally led me to explore the infrastructure that makes modern tech possible, especially the cloud. I started experimenting, building, and occasionally breaking things (the best way to learn, right? 😉) within **Microsoft Azure**. If you peek at my [**GitHub Profile**](https://github.com/HeidiBolivar) <!-- Replace with your actual GitHub profile link -->, you'll see some of these explorations:
+My curiosity naturally led me to explore the infrastructure that makes modern tech possible, especially the cloud. I started experimenting, building, and occasionally breaking things (the best way to learn, right? 😉) within **Microsoft Azure**. If you peek at my [**GitHub Profile**](https://github.com/HeidiBolivar), you'll see some of these explorations:
 
 *   **Bringing Order to Support:** I set up a functional **Help Desk system (osTicket)** on Azure VMs, configuring the web server (IIS) and database connections – a practical exercise in creating tools that help teams manage requests effectively. 🎫
 *   **Demystifying Active Directory:** I built out a simulated on-premises **Active Directory** environment within Azure, getting my hands dirty with user accounts, group policies, and the fundamentals of enterprise identity management. 📁👤
