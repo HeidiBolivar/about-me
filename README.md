@@ -42,7 +42,8 @@ This hands-on work isn't just about checking boxes; it's about building a practi
 
 ### 🎓 Further Learning & Projects: 
 
-* 📖 I have been learning about other amazing things, and I'm excited to share some of what I've learned with you! You can see a little bit more of it on [Platzi](platzi.com/p/Heidi_Bolivar/)
+I've been learning about some interesting things and doing some additional projects and wanted to share a bit of it here:
+* [Platzi](platzi.com/p/Heidi_Bolivar/): Courses and personal projects
 
 ---
 
