@@ -10,7 +10,7 @@
 
 ### ✨ It Started with a Conversation...
 
-Isn't it funny how a single conversation can set you on a completely unexpected path? For me, technology wasn't always the plan. It truly clicked during a tech learning event when I was 16.
+Isn't it funny how a single conversation can set you on a completely unexpected path? For me, technology wasn't always the plan. It truly clicked during a technology conference event when I was 16.
 
 > I met a young woman, just a few years older, who was wrapping up her cybersecurity studies. Hearing her talk – not just about code or systems, but about the **real-world impact** of protecting information and empowering people – was electrifying. In that hour, something shifted. I saw technology not just as tools, but as a powerful way to solve problems and make a tangible difference. That spark ignited a curiosity that hasn't faded since.
 
@@ -37,6 +37,12 @@ This hands-on work isn't just about checking boxes; it's about building a practi
 *   **💻 Core Systems & Services:** Working with Windows 10, basic IIS, Active Directory concepts, and Help Desk workflows (especially **osTicket**).
 *   **🌐 Networking Basics:** Understanding the flow of information and fundamental security principles.
 *   **🤝 And importantly:** The soft skills honed through every interaction – **clear communication**, **analytical problem-solving**, a **collaborative spirit**, and an unshakeable belief in **continuous learning**.
+
+---
+
+### 🎓 Further Learning & Projects: 
+
+* 📖 I have been learning about other amazing things, and I'm excited to share some of what I've learned with you! You can see a little bit more of it on [Platzi](platzi.com/p/Heidi_Bolivar/)
 
 ---
 
